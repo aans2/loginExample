@@ -3,7 +3,7 @@
 Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app), NodeJS Express e o banco de dados PostegreSQL com Docker.
 
 ## Instalação
-Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e, após isso, clonar este repositório:
+Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, e, após isso, clonar este repositório: [https://github.com/aans2/loginExample.git]
 
 
 Depois disso, instale as dependências do Front-end e do Back-end:
